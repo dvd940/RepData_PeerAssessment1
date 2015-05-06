@@ -84,7 +84,7 @@ median.steps <- median(total.steps.per.day$total)
 median.steps
 ```
 
-
+Mean is 10766.19. Median is 10765
 
 ## What is the average daily activity pattern?
 
@@ -166,6 +166,7 @@ median.steps <- median(new.total.steps.per.day$total)
 median.steps
 ```
 
+Mean is 10766.19. Median is 10766.19
 
 Previously, the mean was the same value (10766.19) as we get now whereas the median was slightly less at 10765.
 

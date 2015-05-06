@@ -148,9 +148,7 @@ median.steps
 ## [1] 10765
 ```
 
-Mean:   1.0766189\times 10^{4}
-Median: 10765
-
+Mean is 10766.19. Median is 10765
 
 ## What is the average daily activity pattern?
 
@@ -309,8 +307,7 @@ median.steps
 ## [1] 10766.19
 ```
 
-Mean:   1.0766189\times 10^{4}
-Median: 1.0766189\times 10^{4}
+Mean is 10766.19. Median is 10766.19
 
 Previously, the mean was the same value (10766.19) as we get now whereas the median was slightly less at 10765.
 
