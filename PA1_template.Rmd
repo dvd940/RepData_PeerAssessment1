@@ -166,6 +166,7 @@ median.steps <- median(new.total.steps.per.day$total)
 median.steps
 ```
 
+
 Previously, the mean was the same value (10766.19) as we get now whereas the median was slightly less at 10765.
 
 The impact of imputing values using the mean for the 5-minutes intervals appears to have minimal impact. 

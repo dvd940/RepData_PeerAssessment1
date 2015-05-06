@@ -148,6 +148,8 @@ median.steps
 ## [1] 10765
 ```
 
+Mean:   1.0766189\times 10^{4}
+Median: 10765
 
 
 ## What is the average daily activity pattern?
@@ -307,6 +309,9 @@ median.steps
 ## [1] 10766.19
 ```
 
+Mean:   1.0766189\times 10^{4}
+Median: 1.0766189\times 10^{4}
+
 Previously, the mean was the same value (10766.19) as we get now whereas the median was slightly less at 10765.
 
 The impact of imputing values using the mean for the 5-minutes intervals appears to have minimal impact. 
@@ -374,4 +379,4 @@ plot
 
 ![](PA1_template_files/figure-html/unnamed-chunk-17-1.png) 
 
-These two charts have similiar shapes but the weekday chart shows slighthly more activity in the morning whereas the weekend chart shows a slight increase in activity for the later intervals.  
+These two charts have similar shapes but the weekday chart shows slightly more activity in the morning whereas the weekend chart shows a slight increase in activity for the later intervals.  
